@@ -68,6 +68,8 @@ Response:
     "requestId": "880a6889-3969-43dc-9de1-4692d69ff807"
 }
 ```
+![image](https://user-images.githubusercontent.com/80017048/167564195-c39d890c-11f6-4127-a0f0-5ba80cfdfa16.png)
+
 
 
 
